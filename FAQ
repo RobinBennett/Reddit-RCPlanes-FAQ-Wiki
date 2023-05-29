@@ -84,3 +84,10 @@ Traditional RC manufacturers offer a range of radios, from a basic 6 channel rad
 15.	How can I upgrade or modify my RC airplane?
 •	Share information on how users can upgrade or modify their RC airplanes to enhance performance, durability, or aesthetics. Offer guidance on selecting appropriate upgrades, installation, and testing.
 Remember to include disclaimers about following local regulations, adhering to safety guidelines, and seeking professional help when needed. Also, encourage users to share their experiences, tips, and knowledge with the community and foster a helpful and inclusive environment for all users, especially for newcomers to the hobby of
+
+16. On-board cameras and First Person View.
+•	 I wouldn't bother buying a camera that just records. It's really hard to control where it's pointing and any videos you'll probably get tired of it quickly.
+Similarly, the little all-in-one FPV cameras are cheap but often their image quality isn't as good as a separate FPV camera, and they're often only 25mW, which limits you to about 100 meters of range. If you have a smallish, slowish plane like a FliteTest model, they can be an OK way to try FPV, but you'll probably want to upgrade fairly soon.
+'Good' FPV cameras (from Runcam, Foxeer, etc) aren't particularly expensive. Coupled with a 200mW video transmitter and some cheap box goggles, you'll get about as good a picture as you can from analog gear, and about 300m range for about $100
+Painless360 has some good videos. There's a lot to take in at first, but you'll pick it up quickly.
+The problem then is that FPV is a slippery slope. With a fixed wing, you often want to look sideways, or up and down. So you might want to add a pan-and-tilt mount. Then you probably want a head tracker to control it. Then you'll lose track of which way the plane is pointing, and want a flight controller to help. While you're at it you might add a GPS to fly the plane home in case you lose signal. Finally you might want to blow $1000 on HD video gear, and hundreds more on a quality action-cam. And you'll probably be tempted to try a drone at some point...
